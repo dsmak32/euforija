@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/euforija/static/css/main.46989c62.css",
+    "main.js": "/euforija/static/js/main.daeb42c4.js",
+    "static/media/logo2.png": "/euforija/static/media/logo2.c10f9f1341cf8571e62a.png",
+    "index.html": "/euforija/index.html",
+    "main.46989c62.css.map": "/euforija/static/css/main.46989c62.css.map",
+    "main.daeb42c4.js.map": "/euforija/static/js/main.daeb42c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46989c62.css",
+    "static/js/main.daeb42c4.js"
+  ]
+}
